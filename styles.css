@@ -53,7 +53,7 @@ header{
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    /* background-size: cover; */
     background-image: url(./img/fondo-banner-1.avif);
     color: white;
     text-align: center;
