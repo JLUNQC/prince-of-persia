@@ -54,6 +54,7 @@ header{
     background-repeat: no-repeat;
     background-position: center;
     /* background-size: cover; */
+    /* para que la imagen no este del 100% */
     background-image: url(./img/fondo-banner-1.avif);
     color: white;
     text-align: center;
